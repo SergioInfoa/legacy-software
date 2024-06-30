@@ -1,2 +1,2 @@
-# legacy-software
+# legacy-software-COBOL
 exercise oriented repository
